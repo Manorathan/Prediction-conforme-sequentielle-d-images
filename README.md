@@ -15,4 +15,8 @@ On dispose de $K$ agents. Pour $\alpha\in]0;1[$, avec un niveau de confiance $1-
 ```
 
 
-Le label $Y$ étant choisi aléatoirement, il peut bien évidemment être une variable aléatoire. De ce fait, la distribution de la probabilité utilisée dans la propriété $(1)$ est celle de $($**Z**$,Y)$. On dit que $\mathcal{C}_k$ a une couverture *exacte* si $\mathbb{P}(Y\in\mathcal{C}_k)=1-\alpha$. Le but est d'agréger tous ces ensembles pour créer un nouvel ensemble de sorte à être optimal en couverture et en taille.
+Le label $Y$ étant choisi aléatoirement, il peut bien évidemment être une variable aléatoire. De ce fait, la distribution de la probabilité utilisée dans la propriété $(1)$ est celle de $($**Z**$,Y)$. On dit que $\mathcal{C}_k$ a une couverture *exacte* si $\mathbb{P}(Y\in\mathcal{C}_k)=1-\alpha$.
+
+Il faut maintenant agréger tous ces ensembles pour créer un nouvel ensemble de sorte à être optimal en couverture et en taille. Le but est alors de trouver *la* méthode d'agrégation qui approche répond aux critères d'erreur et de taille, le tout avec la plus petite valeur de $K$ possible.
+
+Veuillez trouver l'ensemble de mon travail dans le notebook Python intitulé "PFE Master Maths Info - Manorathan JEEVAKAN.ipynb". Pour plus de détails sur le projet sur l'aspect théorique, vous pouvez les trouver dans mon rapport de stage joint à ce dépôt.
