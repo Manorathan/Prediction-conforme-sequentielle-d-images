@@ -1,6 +1,6 @@
 # Prédiction conforme séquentielle pour les problèmes d'images
 
-En intelligence artificielle, plus précisément en machine learning, la prédiction conforme est une méthode de classification qui consiste à construire, pour une image donnée, non pas une unique prédiction mais un sous-ensemble $\mathcal{C}$ de l'ensemble des classes pour un niveau de confiance $\alpha\in ]0;1[$. C’est-à-dire que si $Y$ est une variable aléatoire désignant le vrai label d’une observation qu’on tire aléatoirement, alors l’ensemble $\mathcal{C}$ vérifie :
+En intelligence artificielle, plus précisément en machine learning, la prédiction conforme est une méthode de classification faisant partie de la prédiction par ensembles (ensemble learning), qui consiste à construire, pour une image donnée, non pas une unique prédiction mais un sous-ensemble $\mathcal{C}$ de l'ensemble des classes pour un niveau de confiance $\alpha\in ]0;1[$. C’est-à-dire que si $Y$ est une variable aléatoire désignant le vrai label d’une observation qu’on tire aléatoirement, alors l’ensemble $\mathcal{C}$ vérifie :
 ```math
 \mathbb{P}(Y \in \mathcal{C}) \geq \alpha.
 ```
