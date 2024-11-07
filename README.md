@@ -25,4 +25,4 @@ Veuillez trouver l'ensemble de mon travail dans le notebook Python intitulé "PF
 
 V. Vovk, A. Gammerman, and G. Shafer. *Algorithmic Learning in a Random World*, volume 29. Springer, 2005. (https://link.springer.com/book/10.1007/b106715)
 
-Matteo Gasparin, Aaditya Ramdas *Merging uncertainty sets via majority vote* (https://arxiv.org/html/2401.09379v4)
+Matteo Gasparin, Aaditya Ramdas *Merging uncertainty sets via majority vote*, March 2024 (https://arxiv.org/html/2401.09379v4)
