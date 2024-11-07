@@ -20,3 +20,9 @@ Le label $Y$ étant choisi aléatoirement, il peut bien évidemment être une va
 Il faut maintenant agréger tous ces ensembles pour créer un nouvel ensemble de sorte à être optimal en couverture et en taille. Le but est alors de trouver *la* méthode d'agrégation qui approche répond aux critères d'erreur et de taille, le tout avec la plus petite valeur de $K$ possible.
 
 Veuillez trouver l'ensemble de mon travail dans le notebook Python intitulé "PFE Master Maths Info - Manorathan JEEVAKAN.ipynb". Pour plus de détails sur le projet sur l'aspect théorique, vous pouvez les trouver dans mon rapport de stage joint à ce dépôt.
+
+## Sources
+
+V. Vovk, A. Gammerman, and G. Shafer. *Algorithmic Learning in a Random World*, volume 29. Springer, 2005. (https://link.springer.com/book/10.1007/b106715)
+
+Matteo Gasparin, Aaditya Ramdas *Merging uncertainty sets via majority vote* (https://arxiv.org/html/2401.09379v4)
